@@ -1,4 +1,4 @@
-# flood — made by dupewon
+# flood — Designed & crafted with ❤️ dupewon
 
 raw socket flood tool. syn, ack, udp, rawtcp, rawudp. spoofed source ip. multithreaded.
 
@@ -176,3 +176,5 @@ bitince:
 - c versiyonu python'dan 10-50x daha hızlı
 - ctrl+c ile istediğin zaman durdurabilirsin
 - süre 0 verirsen sonsuz çalışır
+
+- Designed & crafted with ❤️ dupewon
